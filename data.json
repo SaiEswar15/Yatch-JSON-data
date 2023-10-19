@@ -2,39 +2,64 @@
   "products": [
     {
       "id": 1,
-      "title": "Product 1",
-      "description" : "",
-      "image": "",
-      "price": 19.99
+      "title": "Ocean Serenity: The Ultimate Luxury Voyage",
+      "description" : "Experience convenient and hassle-free sea travel with our state-of-the-art ferries, designed for a smooth and enjoyable journey.",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shmgroup.com%2Fblog%2Fdawn-new-era-luxury-boats-india%2F&psig=AOvVaw3wCOfTGJBNy7OsD4ltXaIp&ust=1697764665955000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDQtq_4gIIDFQAAAAAdAAAAABAE",
+      "price": 3995,
+      "duration" : "1 Days /1 Nights",
+      "from" : "Port Blair",
+      "to":"Havelock",
+      "round" : "",
+      "amentities" : ["Wi-Fi and Connectivity", "Restrooms", "Entertainment", "Desk-Space", "Lounge Area"]
       
     },
     {
       "id": 2,
-      "title": "Product 2",
-      "description" : "",
-      "image": "",
-      "price": 29.99
+      "title": "Ocean Serenity: The Ultimate Luxury Voyage",
+      "description" : "Step aboard our luxury ferries and escape to a world of opulence, where every voyage is a lavish retreat on the water.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRyP2Xtxdk-Nj1PhN2YwB_YmQo27iezq1koEMmUH3sRfwFz0UEAn_CN1Sbm6yjl6HxCRc&usqp=CAU",
+      "price": 2979,
+      "duration" : "2 Days /1 Nights",
+      "from" : "Havelock",
+      "to":"Neil",
+      "round" : "",
+      "amentities" : ["Wi-Fi and Connectivity", "Restrooms", "Entertainment", "Desk-Space", "Lounge Area"]
     },
     {
       "id": 3,
-      "title": "Product 3",
-      "description" : "",
-      "image": "",
-      "price": 39.99
+      "title": "Majestic Sapphire: Your Opulent Ocean Escape",
+      "description" : " Our ferries offer breathtaking views of the open sea and coastal beauty, making each trip a scenic adventure for nature enthusiasts.",
+      "image": "https://proprioyacht.ca/wp-content/themes/automotiv/scripts/timthumb.php?src=https://proprioyacht.ca/wp-content/uploads/2015/11/4658050_20140716090045061_1_XLARGE.jpg&w=436&h=300&zc=1&q=90",
+      "price": 3693,
+      "duration" : "3 Days /2 Nights",
+      "from" : "Neil",
+      "to":"Port Blair",
+      "round" : "",
+      "amentities" : ["Wi-Fi and Connectivity", "Restrooms", "Entertainment", "Desk-Space", "Lounge Area", "Sun Deck","Pet-Friendly Facilities"]
     },
     {
       "id": 4,
-      "title": "Product 4",
-      "description" : "",
-      "image": "",
-      "price": 49.99
+      "title": "Regal Nautical: Where Luxury Meets Elegance",
+      "description" : "For commuters and travelers seeking efficient and eco-friendly transportation, our ferries provide a reliable and sustainable mode of travel.",
+      "image": "https://cdn.yachtbroker.org/images/highdef/2792461_9d722d05_1.jpg.webp",
+      "price": 4996,
+      "duration" : "3 Days /3 Nights",
+      "from" : "",
+      "to":"",
+      "round" : "Port Blair - Havelock - Neil - PortBlair",
+      "amentities" : ["Wi-Fi and Connectivity", "Restrooms", "Entertainment", "Desk-Space", "Lounge Area", "Sun Deck"]
     },
     {
       "id": 5,
-      "title": "Product 5",
-      "description" : "",
-      "image": "",
-      "price": 59.99
+      "title": "Tranquil Odyssey: A Voyage of Sophistication",
+      "description" : "Embark on a journey of nautical elegance with our ferries, where style, comfort, and superior service come together for an unforgettable maritime experience.",
+      "image": "https://boatsector.com/wp-content/uploads/2020/03/ferretti-68-fly-huge-343434f8cf439438-20b850fd.jpg",
+      "price": 5692,
+      "duration" : "3 Days /2 Nights",
+      "from" : "",
+      "to":"",
+      "round" : "Port Blair - Havelock - Neil - PortBlair",
+      "amentities" : ["Wi-Fi and Connectivity", "Restrooms", "Entertainment", "Desk-Space", "Lounge Area", "Sun Deck","Pet-Friendly Facilities"]
     }
   ]
 }
