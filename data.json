@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "title": "Ocean Serenity: The Ultimate Luxury Voyage",
+      "title": "Elegant Horizon: A Seafaring Oasis",
       "description" : "Step aboard our luxury ferries and escape to a world of opulence, where every voyage is a lavish retreat on the water.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRyP2Xtxdk-Nj1PhN2YwB_YmQo27iezq1koEMmUH3sRfwFz0UEAn_CN1Sbm6yjl6HxCRc&usqp=CAU",
       "price": 2979,
@@ -58,7 +58,7 @@
       "duration" : "3 Days /2 Nights",
       "from" : "",
       "to":"",
-      "round" : "Port Blair - Havelock - Neil - PortBlair",
+      "round" : "Port Blair - Havelock - Neil",
       "amentities" : ["Wi-Fi and Connectivity", "Restrooms", "Entertainment", "Desk-Space", "Lounge Area", "Sun Deck","Pet-Friendly Facilities"]
     }
   ]
